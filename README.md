@@ -11,7 +11,6 @@
     <code><img height="40" src="https://knexjs.org/assets/images/knex.png"></code>
     <code><img height="40" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
     <code><img height="40" src="https://i2.wp.com/blog.hariken.co/wp-content/uploads/2019/03/react-logo.png?ssl=1"></code>
-    <code><img height="40" src="https://thekenyandev.com/static/nodejs-ea6d8fe57ed02c773ad10ca3003b2451.png"></code>
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 </p>
 
