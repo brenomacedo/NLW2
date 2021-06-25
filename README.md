@@ -14,6 +14,13 @@
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 </p>
 
+<h1>Novidades implementadas na nova versão:</h1>
+<p>- Autenticação no site e no aplicativo</p>
+<p>- Login e logout</p>
+<p>- Edição de perfil do professor e do aluno</p>
+<p>- Recuperação de senha</p>
+<p>- Splash Screen</p>
+
 <h1 align="center">Algumas screenshots:</h1>
 <h2 align="center">Web:</h2>
 
